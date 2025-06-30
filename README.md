@@ -33,6 +33,7 @@ A responsive real-time weather dashboard built using ESP32, DHT11, Firebase Real
 ---
 
 ## 🌐 Live Demo
+https://byteofishan.github.io/IOT-Weather-Station/
 
 
 ---
@@ -49,7 +50,9 @@ A responsive real-time weather dashboard built using ESP32, DHT11, Firebase Real
 ---
 
 ## 🧪 Screenshots
-
+assets/dashboard.jpg
+assets/database.jpg
+assets/esp32.jpg
 
 
 
