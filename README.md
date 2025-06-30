@@ -50,9 +50,12 @@ https://byteofishan.github.io/IOT-Weather-Station/
 ---
 
 ## 🧪 Screenshots
-assets/dashboard.jpg
+![Dashboard Screenshot]assets/dashboard.jpg
+
 assets/database.jpg
+
 assets/esp32.jpg
+
 
 
 
